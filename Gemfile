@@ -30,17 +30,4 @@ gem 'cancan'
 # Bundle gems for the local environment. Make sure to
 # put test-only gems in this group so their generators
 # and rake tasks are available in development mode:
-group :development, :test do
-  gem 'webrat'
-  gem 'capybara'
-  gem 'cucumber'
-  gem 'cucumber-rails'
-  gem 'database_cleaner'
-  gem 'rspec'
-  gem 'rspec-rails'
-  gem 'shoulda'
-  gem 'autotest'
-  gem 'launchy'
-  gem 'faker'
-  gem 'haml-rails'
-end
+
