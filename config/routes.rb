@@ -1,4 +1,6 @@
 EpromMit::Application.routes.draw do
+  get "home/index"
+
   get "course/index"
 
   get "course/show"
