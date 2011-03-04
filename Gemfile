@@ -42,7 +42,5 @@ group :development, :test do
   gem 'autotest'
   gem 'launchy'
   gem 'faker'
-  gem 'ruby-debug19'
   gem 'haml-rails'
-  gem 'metric_fu'
 end
