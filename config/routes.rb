@@ -1,4 +1,12 @@
 EpromMit::Application.routes.draw do
+  get "course/index"
+
+  get "course/show"
+
+  get "pages/home"
+
+  get "pages/contact"
+
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
